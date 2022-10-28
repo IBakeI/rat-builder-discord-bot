@@ -30,3 +30,5 @@ That's all, enjoy creating your server.
 
 # Disclaimer
 I am not liable for any malicious use of my builder, nor am I liable for any malicious use of the files created by my builder. This is made for educational purposes
+
+You may edit this code all you want. If you want to post it somewhere, please give me credit. :)
