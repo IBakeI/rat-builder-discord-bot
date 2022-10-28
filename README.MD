@@ -23,3 +23,10 @@ If you already have one, that's good! If you don't, I don't know what to tell yo
 4.) Go into your main class and find the name of the string where the webhook is expected (string name will be bold) like: String **pb** = "https://discord.com/api/..." IT MUST BE JUST THE NAME, NOTHING ELSE.
 
 # Hosting
+
+I personally recommend [Contabo](https://contabo.com/), you can also host it on your PC if you'd like.
+
+That's all, enjoy creating your server. 
+
+# Disclaimer
+I am not liable for any malicious use of my builder, nor am I liable for any malicious use of the files created by my builder. This is made for educational purposes
