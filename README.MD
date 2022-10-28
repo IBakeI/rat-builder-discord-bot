@@ -1,4 +1,4 @@
-<center>Gute Nacht's RAT Builder Bot</center>
+<h1>Gute Nacht's RAT Builder Bot</h1>
 
 # Setting up your bot
 1.) Visit [Discord's Developer Portal](https://discord.com/developers/applications) (If it takes you to a login screen, log into your Discord and revisit the page)
