@@ -20,7 +20,7 @@ If you already have one, that's good! If you don't, I don't know what to tell yo
   
 3.) You need to open the code for your rat, and find which line the webhook is meant to be placed. After that put the line number into config.json in the "line"
 
-4.) Go into your main class and find the name of the string where the webhook is expected (string name will be bold) like: String **pb** = "https://discord.com/api/..."
+4.) Go into your main class and find the name of the string where the webhook is expected (string name will be bold) like: String **pb** = "https://discord.com/api/...". IT MUST BE JUST THE NAME, NOTHING ELSE.
 
 
 # HOW TO USE
