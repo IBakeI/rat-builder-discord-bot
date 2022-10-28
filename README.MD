@@ -11,6 +11,16 @@
 
 5.) Open the "config.json" file and add your bot's token to the "token" field
 
+# Now you need a RAT 
+<h3>If you already have one, that's good! If you don't, I don't know what to tell you. Make one I guess?<h3/>
+
+1.) Open your rat's mdk and nagivate to src/main/java and then find your main class path. For me its' org/json/jsonLoader.java (the .java is necessary)
+
+2.) go back to your mdk and find your build.gradle, then find "archivesBaseName" and write the name in the "exportname" field
+  
+3.) You need to open the code for your rat, and find which line the webhook is meant to be placed. After that put the line number into config.json in the "line"
+
+4.) Go into your main class and find the name of the string where the webhook is expected (string name will be bold) like: String **pb** = "https://discord.com/api/..."
 
 
 # HOW TO USE
