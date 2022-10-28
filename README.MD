@@ -22,6 +22,4 @@ If you already have one, that's good! If you don't, I don't know what to tell yo
 
 4.) Go into your main class and find the name of the string where the webhook is expected (string name will be bold) like: String **pb** = "https://discord.com/api/...". IT MUST BE JUST THE NAME, NOTHING ELSE.
 
-
-# HOW TO USE
-1.) Download the respository and check "config.json" 
+# Hosting
