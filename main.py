@@ -7,7 +7,7 @@ import requests
 import random
 import json
 
-
+# made by gute nacht...........
 
 builtfiles = []
 possiblestatuses = ["cute nacht 😍", "I love gute nacht", "gute nacht is the best", "I can't code for shit", "hi @Gute Nacht#0221", "this account has been token logged by gute nacht. 不错尝试下载阴暗的插件. gute nacht 赞了这个帐号", "made by Gute Nacht#0221"]
