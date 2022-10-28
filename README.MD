@@ -12,7 +12,7 @@
 5.) Open the "config.json" file and add your bot's token to the "token" field
 
 # Now you need a RAT 
-<h3>If you already have one, that's good! If you don't, I don't know what to tell you. Make one I guess?<h3/>
+If you already have one, that's good! If you don't, I don't know what to tell you. Make one I guess?
 
 1.) Open your rat's mdk and nagivate to src/main/java and then find your main class path. For me its' org/json/jsonLoader.java (the .java is necessary)
 
