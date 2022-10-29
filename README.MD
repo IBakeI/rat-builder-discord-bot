@@ -37,3 +37,5 @@ You may edit this code all you want. If you want to post it somewhere, please gi
 **DO NOT DM ME FOR HELP, I'M NOT GOING TO HELP YOU. EVERYTHING YOU NEED TO SET IT UP IS HERE. CAN'T FIGURE IT OUT? DON'T DO IT.**
 
 also I'm aware it sucks it was made in like 2 days
+
+<h1>Enjoyed my bot? Please leave a ⭐!</h1>
