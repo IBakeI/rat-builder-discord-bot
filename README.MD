@@ -1,7 +1,8 @@
 <h1 align="center">⭐ Gute Nacht's RAT Builder Bot ⭐</h1>
 
 <h1 align="center">Setting up your bot</h1>
-1.) Visit Discord's Developer Portal (https://discord.com/developers/applications) If it takes you to a login screen, log into your Discord and revisit the page
+
+1.) Visit [Discord's Developer Portal](https://discord.com/developers/applications) If it takes you to a login screen, log into your Discord and revisit the page
 
 2.) Click the **"New Application"** button on the top right of your screen, choose the name of the application, agree to the terms and click "Create".
 
