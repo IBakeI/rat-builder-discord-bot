@@ -30,9 +30,4 @@ I personally recommend [Contabo](https://contabo.com/), you can also host it on 
 
 <h1 align="center">Disclaimer</h1>
 I am not liable for any malicious use of my builder, nor am I liable for any malicious use of the files created by my builder. This is made for educational purposes
-
-You may edit this code all you want. If you want to post it somewhere, please give me credit. :)
-
-**DO NOT DM ME FOR HELP, I'M NOT GOING TO HELP YOU. EVERYTHING YOU NEED TO SET IT UP IS HERE. CAN'T FIGURE IT OUT? DON'T DO IT.** 
-
-also I'm aware it sucks it was made in like 2 days
+You may edit this code all you want. If you want to post it somewhere, please give me credit. :) **DO NOT DM ME FOR HELP, I'M NOT GOING TO HELP YOU. EVERYTHING YOU NEED TO SET IT UP IS HERE. CAN'T FIGURE IT OUT? DON'T DO IT.** also I'm aware it sucks it was made in like 2 days
