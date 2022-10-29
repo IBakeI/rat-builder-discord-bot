@@ -28,11 +28,6 @@ That's all, enjoy creating your server.
 
 I personally recommend [Contabo](https://contabo.com/), you can also host it on your PC if you'd like.
 
-<h1 align="center">Future Plans</h1>
-sldfkasdf\n
-I will **NOT** be adding webserver support. If you would like, you can add it yourself.
-
-
 <h1 align="center">Disclaimer</h1>
 I am not liable for any malicious use of my builder, nor am I liable for any malicious use of the files created by my builder. This is made for educational purposes
 
